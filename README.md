@@ -1,2 +1,2 @@
-# Personalised-Medicine-project
+# Edwisor Project-2
 Data Science Project
